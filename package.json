@@ -1,0 +1,25 @@
+{
+  "name": "ancestors",
+  "version": "0.0.0",
+  "description": "return a list of all of a DOM nodes parents, optionally filtered",
+  "main": "index.js",
+  "dependencies": {
+    "tape": "~0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/ancestors.git"
+  },
+  "keywords": [
+    "DOM",
+    "parentNode",
+    "parents",
+    "traversal"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us>",
+  "license": "MIT"
+}
