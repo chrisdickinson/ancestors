@@ -1,5 +1,7 @@
 # ancestors
 
+[![browser support](http://ci.testling.com/chrisdickinson/ancestors.png)](http://ci.testling.com/chrisdickinson/ancestors)
+
 return a list of a node's ancestors, optionally filtered with a provided function.
 
 ```javascript
