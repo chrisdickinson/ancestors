@@ -21,5 +21,32 @@
     "traversal"
   ],
   "author": "Chris Dickinson <chris@neversaw.us>",
-  "license": "MIT"
+  "license": "MIT",
+  "testling": {
+    "files": [
+      "test.js"
+    ],
+    "browsers": {
+      "ie": [
+        7,
+        8,
+        9
+      ],
+      "firefox": [
+        4,
+        13
+      ],
+      "chrome": [
+        20
+      ],
+      "safari": [
+        5.1,
+        6
+      ],
+      "opera": [
+        10,
+        12
+      ]
+    }
+  }
 }
