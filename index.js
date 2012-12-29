@@ -8,7 +8,7 @@ function parents(node, filter) {
   do {
     out.push(node)
     node = node.parentNode
-  } while(node && filter(node)) 
+  } while(node && node.tagName && filter(node))
 
   return out.slice(1)
 }
