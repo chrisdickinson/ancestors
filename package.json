@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "description": "return a list of all of a DOM nodes parents, optionally filtered",
   "main": "index.js",
-  "dependencies": {
-    "tape": "~0.1.5"
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~0.2.2"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "node test.js"
   },
