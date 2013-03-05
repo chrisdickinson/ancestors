@@ -1,6 +1,6 @@
 {
   "name": "ancestors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "return a list of all of a DOM nodes parents, optionally filtered",
   "main": "index.js",
   "dependencies": {},
